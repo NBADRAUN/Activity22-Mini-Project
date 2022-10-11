@@ -98,9 +98,12 @@ footer {
     vertical-align: text-bottom;
     text-align: center;
 }
-
-
 body{
     text-align: center;
     font-size: 20px;
 }
+#paragraph{
+    text-align: center;
+    font-size: 20px;
+}
+
